@@ -1,0 +1,5 @@
+static/
+media/
+node_modules/
+.idea
+__pycache__
